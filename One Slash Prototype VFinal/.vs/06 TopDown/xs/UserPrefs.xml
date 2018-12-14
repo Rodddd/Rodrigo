@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0C01F2BE-20F5-7D38-5F86-6B91A8C6E7F1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PT_Scripts/Rods Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/PT_Scripts/PT_2D_Map_Builder.cs" Line="107" Column="10" />
+      <File FileName="Assets/PT_Scripts/Rods Scripts/LockPos.cs" Line="15" Column="3" />
+      <File FileName="Assets/PT_Scripts/PT_TopDown_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets/PT_Scripts/Rods Scripts/PlayerMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
